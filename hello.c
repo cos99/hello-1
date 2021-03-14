@@ -1,4 +1,4 @@
-```
+
 #include <stdio.h>
 
 int main()
@@ -8,5 +8,5 @@ int main()
   printf("hello %s, ai fost hackuit. ai de plata 300 de dolari\n", c); 
   return 0;
 }
-```
+
 
